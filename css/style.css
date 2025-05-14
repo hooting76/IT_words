@@ -1,2 +1,18 @@
 @charset "utf-8";
 
+html{width: 100%; background: #fff;}
+body{ max-width: 900px; width: 100%; margin: 0 auto;}
+
+
+header{ font-weight: bold; }
+.tit_h1{ font-size: 32px; text-align: center; margin: 10px auto; }
+
+#searchWrap{padding: 5px 15px; box-sizing: border-box; border: 1px solid #ccc; border-radius: 15px; display: flex; justify-content: space-between; align-items: center;}
+
+#searchWrap > *:not(select){border: none; outline: none;}
+#searchWrap > * {width: 50%;}
+
+#srchOpt{text-align: center;}
+#srchOpt > option {text-align: center;}
+
+footer{margin-top: 15px; border-top: 1px solid #ccc;}

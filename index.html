@@ -12,23 +12,32 @@
     <header>
         <h1 class="tit_h1">IT 용어 사전</h1>
         <hr>
-        <p class="subtit">최초 작성일 : 25/05/14</p>
     </header>
 
     <nav>
         <div id="searchWrap">
-            
+            <input type="search" name="searchInput" id="searchInput" placeholder="ㄱ ㄴ ㄷ, a b c">
+            <select name="srchOpt" id="srchOpt" title="srchOpt">
+                <option value="all">==옵션==</option>
+                <option value="spells">영단어</option>
+                <option value="means">단어 뜻</option>
+            </select>
         </div>
     </nav>
 
     <main>
         <div id="wrap"> 
-                    
+            <article>
+                <!-- 단어 리스트-->
+            </article>
+            <aside>
+                <!-- 단어의 뜻-->
+            </aside>
         </div>
     </main>
 
     <footer>
-
+        <p class="subtit">최초 작성일 : 25/05/14</p>
     </footer>
 </body>
 </html>
