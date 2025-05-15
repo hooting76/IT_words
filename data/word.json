@@ -1,3 +1,36 @@
 [
-    
+    {"spells":"forward", "means":"앞으로"},
+    {"spells":"foreground", "means":"전경"},
+    {"spells":"valid", "means":"유효"},
+    {"spells":"invalid", "means":"무효"},
+    {"spells":"resume", "means":"재개"},
+    {"spells":"suspend", "means":"쉬다. / 일시정지"},
+    {"spells":"detach", "means":"떼다."},
+    {"spells":"attach", "means":"붙이다."},
+    {"spells":"allow", "means":"허가"},
+    {"spells":"deny", "means":"불허"},
+    {"spells":"config", "means":"구성"},
+    {"spells":"setting", "means":"설정"},
+    {"spells":"preference", "means":"환경설정"},
+    {"spells":"initialize", "means":"초기화, 셋업"},
+    {"spells":"init", "means":"초기화, 셋업"},
+    {"spells":"pause", "means":"일단 멈춤(언제든 재개할 수 있는 상태)"},
+    {"spells":"changed", "means":"(전면적인)변경"},
+    {"spells":"modified", "means":"수정(fix), 혹은 개선"},
+    {"spells":"revised", "means":"(책)개정"},
+    {"spells":"find", "means":"(찾아질 것을 기대하며)찾다."},
+    {"spells":"search", "means":"(찾아보는 것에 대한)찾다. 검색하다."},
+    {"spells":"tryParse-", "means":"-로 변환을 시도"},
+    {"spells":"tryParse A", "means":"A로 변환을 시도"},
+    {"spells":"parameter", "means":"메서드에 정의되어 있는 것, 인수"},
+    {"spells":"argument", "means":"메서드에 전달된 값, 매개변수"},
+    {"spells":"property", "means":"(객체 지향의 클래스의 성질을 나타내는)속성"},
+    {"spells":"attribute", "means":"(HTML에서 사용하는)속성"},
+    {"spells":"numberic", "means":"10진수"},
+    {"spells":"sum", "means":"어느 일부 계산의 합계"},
+    {"spells":"total", "means":"전체 합계"},
+    {"spells":"bounds", "means":"(limit보다 좀 더 수학적인 느낌)한계 내, 한계선, 경계"},
+
+
+    {"spells":"backward", "means":"뒤로"}
 ]
